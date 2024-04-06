@@ -1,0 +1,27 @@
+.captcha-container {
+    text-align: center;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  .image-grid {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .captcha-image {
+    width: 40px; /* Adjust the width as needed */
+    height: auto;
+    margin: 0 10px; /* Add some margin between images */
+    cursor: pointer;
+    transition: opacity 0.3s, transform 0.3s; /* Add transitions for smoother effects */
+    margin-bottom: 20px;
+  }
+  
+  .captcha-image:hover {
+    opacity: 0.8;
+    transform: scale(1.1);
+  }
+  

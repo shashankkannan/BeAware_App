@@ -1,0 +1,649 @@
+.delete-profile-ajay {
+    background-color: #a6e4f6;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .delete-profile-ajay .div {
+    background-color: #a6e4f6;
+    height: 1349px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .delete-profile-ajay .overlap {
+    background-color: #a6e4f6;
+    height: 1349px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .delete-profile-ajay .overlap-group {
+    height: 1349px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 624px;
+  }
+  
+  .delete-profile-ajay .rectangle {
+    background-color: #f9f9f9;
+    height: 1349px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 320px;
+  }
+  
+  .delete-profile-ajay .TEMPLATES {
+    height: 20px;
+    left: 88px;
+    position: absolute;
+    top: 372px;
+    width: 132px;
+  }
+  
+  .delete-profile-ajay .vector {
+    height: 20px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 20px;
+  }
+  
+  .delete-profile-ajay .text-wrapper {
+    color: #22222285;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .delete-profile-ajay .MEMBERSHIP {
+    height: 19px;
+    left: 88px;
+    position: absolute;
+    top: 438px;
+    width: 118px;
+  }
+  
+  .delete-profile-ajay .img {
+    height: 19px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 20px;
+  }
+  
+  .delete-profile-ajay .text-wrapper-2 {
+    color: #22222282;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .delete-profile-ajay .SETTINGS {
+    height: 20px;
+    left: 88px;
+    position: absolute;
+    top: 503px;
+    width: 110px;
+  }
+  
+  .delete-profile-ajay .text-wrapper-3 {
+    color: #22222282;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1px;
+    white-space: nowrap;
+  }
+  
+  .delete-profile-ajay .OVERVIEW {
+    height: 48px;
+    left: 0;
+    position: absolute;
+    top: 217px;
+    width: 212px;
+  }
+  
+  .delete-profile-ajay .group {
+    height: 19px;
+    left: 95px;
+    position: absolute;
+    top: 29px;
+    width: 119px;
+  }
+  
+  .delete-profile-ajay .text-wrapper-4 {
+    color: #22222280;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .delete-profile-ajay .vector-2 {
+    height: 15px;
+    left: 0;
+    position: absolute;
+    top: 2px;
+    width: 22px;
+  }
+  
+  .delete-profile-ajay .rectangle-2 {
+    background-color: #1b4375;
+    border-radius: 0px 3px 3px 0px;
+    height: 48px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 4px;
+  }
+  
+  .delete-profile-ajay .logo-dark {
+    height: 41px;
+    left: 85px;
+    object-fit: cover;
+    position: absolute;
+    top: 63px;
+    width: 150px;
+  }
+  
+  .delete-profile-ajay .rectangle-3 {
+    background-color: #1b4375;
+    border-radius: 10px;
+    box-shadow: 1px 4px 10px #1e64ff40;
+    height: 50px;
+    left: 38px;
+    position: absolute;
+    top: 294px;
+    width: 230px;
+  }
+  
+  .delete-profile-ajay .INSIGHTS {
+    height: 20px;
+    left: 92px;
+    position: absolute;
+    top: 309px;
+    width: 126px;
+  }
+  
+  .delete-profile-ajay .text-wrapper-5 {
+    color: #a6e4f6;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 45px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .delete-profile-ajay .UPGRADE {
+    height: 297px;
+    left: 44px;
+    position: absolute;
+    top: 790px;
+    width: 231px;
+  }
+  
+  .delete-profile-ajay .group-wrapper {
+    background-color: #1b4375;
+    border-radius: 10px;
+    box-shadow: 1px 4px 10px #1e64ff40;
+    height: 50px;
+    left: 1px;
+    position: absolute;
+    top: 247px;
+    width: 230px;
+  }
+  
+  .delete-profile-ajay .div-wrapper {
+    height: 19px;
+    left: 41px;
+    position: relative;
+    top: 16px;
+    width: 154px;
+  }
+  
+  .delete-profile-ajay .text-wrapper-6 {
+    color: #a6e4f6;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 152px;
+  }
+  
+  .delete-profile-ajay .group-2 {
+    height: 212px;
+    left: -2px;
+    position: absolute;
+    top: -2px;
+    width: 233px;
+  }
+  
+  .delete-profile-ajay .general-info-photo {
+    height: 211px;
+    left: 308px;
+    position: absolute;
+    top: 75px;
+    width: 316px;
+  }
+  
+  .delete-profile-ajay .overlap-2 {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 204px;
+  }
+  
+  .delete-profile-ajay .text-wrapper-7 {
+    color: #384d6c;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 24px;
+    font-weight: 700;
+    height: 41px;
+    left: 0;
+    letter-spacing: 0;
+    line-height: 20px;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 204px;
+  }
+  
+  .delete-profile-ajay .vector-3 {
+    height: 1px;
+    left: 26px;
+    object-fit: cover;
+    position: absolute;
+    top: 40px;
+    width: 145px;
+  }
+  
+  .delete-profile-ajay .group-3 {
+    height: 107px;
+    left: 37px;
+    position: absolute;
+    top: 104px;
+    width: 281px;
+  }
+  
+  .delete-profile-ajay .group-4 {
+    height: 131px;
+    left: -8px;
+    position: absolute;
+    top: -8px;
+    width: 107px;
+  }
+  
+  .delete-profile-ajay .text-wrapper-8 {
+    color: #384d6c;
+    font-family: "Montserrat-Bold", Helvetica;
+    font-size: 20px;
+    font-weight: 700;
+    left: 152px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 8px;
+    width: 125px;
+  }
+  
+  .delete-profile-ajay .e-mail {
+    color: #384d6c;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 152px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 41px;
+    width: 124px;
+  }
+  
+  .delete-profile-ajay .user-info {
+    height: 292px;
+    left: 905px;
+    position: absolute;
+    top: 286px;
+    width: 401px;
+  }
+  
+  .delete-profile-ajay .label {
+    align-items: flex-start;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #ffffff;
+    display: flex;
+    gap: 10px;
+    left: 0;
+    padding: 0px 0px 15px;
+    position: absolute;
+    top: 0;
+    width: 400px;
+  }
+  
+  .delete-profile-ajay .text-wrapper-9 {
+    color: #1b4375;
+    font-family: "Inter-SemiBold", Helvetica;
+    font-size: 22px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    position: relative;
+    width: fit-content;
+  }
+  
+  .delete-profile-ajay .input {
+    height: 94px;
+    left: 1px;
+    position: absolute;
+    top: 72px;
+    width: 350px;
+  }
+  
+  .delete-profile-ajay .first {
+    align-items: center;
+    background-color: #a6e4f6;
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 15px;
+    display: flex;
+    gap: 15px;
+    height: 57px;
+    left: -1px;
+    /* padding: 15px 25px; */
+    position: absolute;
+    top: 38px;
+    width: 410px;
+  }
+  
+  .delete-profile-ajay .group-5 {
+    height: 24px;
+    position: relative;
+    width: 54px;
+  }
+  
+  .delete-profile-ajay .text-wrapper-10 {
+    color: #13121280;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .delete-profile-ajay .text-wrapper-11 {
+    color: #090909;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .delete-profile-ajay .overlap-group-2 {
+    height: 97px;
+    left: -1px;
+    position: absolute;
+    top: 190px;
+    width: 404px;
+  }
+  
+  .delete-profile-ajay .input-2 {
+    /* height: 93px; */
+    margin-bottom: 40px;
+    left: 2px;
+    /* position: absolute; */
+    top: 0;
+    width: 350px;
+  }
+  
+  .delete-profile-ajay .first-2 {
+    align-items: center;
+    background-color: #a6e4f6;
+    border-radius: 15px;
+    display: flex;
+    gap: 15px;
+    left: 0;
+    padding: 15px 25px;
+    position: absolute;
+    top: 39px;
+    width: 400px;
+  }
+  
+  .delete-profile-ajay .group-6 {
+    height: 24px;
+    position: relative;
+    width: 178px;
+  }
+  
+  .delete-profile-ajay .text-wrapper-12 {
+    color: #22222280;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .delete-profile-ajay .text-wrapper-13 {
+    color: #222222;
+    font-family: "Inter-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .delete-profile-ajay .first-3 {
+    align-items: center;
+    background-color: #a6e4f6;
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 15px;
+    display: flex;
+    gap: 15px;
+    height: 57px;
+    left: 0;
+    /* padding: 15px 25px; */
+    position: absolute;
+    /* //top: 40px; */
+    width: 410px;
+  }
+  
+  .delete-profile-ajay .overlap-3 {
+    height: 231px;
+    left: 905px;
+    position: absolute;
+    top: 734px;
+    width: 457px;
+  }
+  
+  .delete-profile-ajay .password {
+    height: 231px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 457px;
+  }
+  
+  .delete-profile-ajay .deleting-your-wrapper {
+    height: 78px;
+    left: 0;
+    position: absolute;
+    top: 42px;
+    width: 459px;
+  }
+  
+  .delete-profile-ajay .deleting-your {
+    color: #000000;
+    font-family: "Source Sans Pro-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 457px;
+  }
+  
+  .delete-profile-ajay .input-3 {
+    background-color: #a6e4f6;
+    border: 1px solid;
+    border-color: #ffffff;
+    border-radius: 15px;
+    height: 55px;
+    left: 0;
+    position: absolute;
+    top: 176px;
+    width: 400px;
+  }
+  
+  .delete-profile-ajay .label-2 {
+    align-items: flex-start;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-color: #dbdbdb;
+    display: flex;
+    gap: 10px;
+    left: 0;
+    padding: 0px 0px 15px;
+    position: absolute;
+    top: 0;
+    width: 400px;
+  }
+  
+  .delete-profile-ajay .to-confirm-this-type {
+    color: #000000;
+    font-family: "Source Sans Pro-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 59px;
+  }
+  
+  .delete-profile-ajay .SETTINGS-2 {
+    height: 19px;
+    left: 411px;
+    position: absolute;
+    top: 1378px;
+    width: 108px;
+  }
+  
+  .delete-profile-ajay .text-wrapper-14 {
+    color: #22222287;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .delete-profile-ajay .SETTINGS-3 {
+    height: 19px;
+    left: 411px;
+    position: absolute;
+    top: 1754px;
+    width: 34px;
+  }
+  
+  .delete-profile-ajay .text-wrapper-15 {
+    color: #22222282;
+    font-family: "Inter-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .delete-profile-ajay .p {
+    color: #000000;
+    font-family: "Source Sans Pro-Regular", Helvetica;
+    font-size: 20px;
+    font-weight: 400;
+    left: -1085px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 963px;
+  }
+
+  .button1 {
+    position: absolute;
+    top: 280px;
+    width: 250px;
+    height: 55px;
+    background: red;
+    border-radius: 10px;
+    margin-left: 70px;
+    cursor: pointer;
+}
+.text-space{
+  padding-left: 20px;
+}
