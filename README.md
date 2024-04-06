@@ -6,6 +6,8 @@ The components are present at: \BeAware\src\components
 Css files can be found at: \BeAware\src\css
 All the media assets can be found at: S:\ASE - \BeAware\src\Assets
 
+Please execute **npm install** to download and install all required libraries.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
