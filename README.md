@@ -2,7 +2,7 @@
 Beaware is a web application developed using technologies such as React.js, HTML, CSS, Spring Boot, and Firebase. It offers an auto-captioning system allowing users to initiate sessions and share them with others using QR codes.
 
 **Codebase:**
-THe components are present at: \BeAware\src\components
+The components are present at: \BeAware\src\components
 Css files can be found at: \BeAware\src\css
 All the media assets can be found at: S:\ASE - \BeAware\src\Assets
 
